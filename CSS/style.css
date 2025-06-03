@@ -27,6 +27,7 @@ body {
     text-align: center;
     justify-content: space-between;
     overflow: hidden;
+    z-index: 999;
 }
 
 .header img {
